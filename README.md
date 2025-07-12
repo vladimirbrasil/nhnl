@@ -18,3 +18,6 @@ members were interested: Australia, Brazil, Canada, China, and others. We create
 main page of SpikeTrade for Vladimir’s weekly updates. This is now a free feature, open to all guests of
 SpikeTrade as well as our members. All charts in this chapter were produced by Vladimir and marked up
 by us.
+
+## Obs
+accdb (too large to send to github) zipped files must be unzipped before use. 

@@ -1,0 +1,7 @@
+open ftp.spiketrade.com
+spikeworld@spiketrade.com
+world007
+binary
+prompt
+mput C:\Users\Vla\Pictures\NH-NL\Imagens\*
+quit
